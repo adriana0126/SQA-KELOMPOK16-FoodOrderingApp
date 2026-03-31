@@ -12,3 +12,12 @@ Pengujian dilakukan pada:
 ## Strategy
 - Black Box Testing
 - Manual Testing
+
+## Testing Environment
+OS      : Windows
+Browser : Google Chrome
+
+## Test Schedule
+Day 1 : Login Testing
+Day 2 : Order Testing
+Day 3 : Payment Testing
