@@ -13,7 +13,7 @@ Dokumen ini berisi rencana dan hasil pengujian sistem.
 ## Metode
 Pengujian dilakukan secara manual dengan mencoba setiap fitur.
 
-
+## Hasil
 ## 📊 Tabel Pengujian User Characteristic (Login & Register)
 
 | No | Kebutuhan User                      | Hasil | Keterangan                 |
