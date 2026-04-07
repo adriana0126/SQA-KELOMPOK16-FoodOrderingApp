@@ -65,10 +65,3 @@ Pengujian dilakukan terhadap seluruh fitur utama seperti login, register, verifi
 3. Import database ke phpMyAdmin
 4. Jalankan project melalui browser:
    http://localhost/perpustakaan
-
-## 📁 Struktur Repository
-
-- Software_Design_Dokumen
-- Software_Requirements_Specification
-- Software_Test_Plan
-- Software_User_Documentations
