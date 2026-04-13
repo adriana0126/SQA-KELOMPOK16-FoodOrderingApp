@@ -71,3 +71,10 @@ Pengujian dilakukan terhadap seluruh fitur utama seperti login, register, verifi
 3. Import database ke phpMyAdmin
 4. Jalankan project melalui browser:
    http://localhost/SQA-KELOMPOK16/perpustakaan
+
+## 👥 Tim Penyusun 
+
+1. Adriana Putra Pratama Kusunmah
+2. Marwan Setyadi
+3. Muhammad Teguh Pawana
+4. Ryan Restu Julianto
