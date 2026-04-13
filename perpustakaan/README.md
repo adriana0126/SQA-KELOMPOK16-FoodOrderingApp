@@ -57,6 +57,12 @@ Pengujian dilakukan terhadap seluruh fitur utama seperti login, register, verifi
 - MySQL Database
 - Bootstrap 5
 - XAMPP
+## 📁 Struktur Repository
+
+- Software_Design_Dokumen
+- Software_Requirements_Specification
+- Software_Test_Plan
+- Software_User_Documentations
 
 ## ▶️ Cara Menjalankan Project
 
@@ -64,11 +70,11 @@ Pengujian dilakukan terhadap seluruh fitur utama seperti login, register, verifi
 2. Simpan project ke folder htdocs
 3. Import database ke phpMyAdmin
 4. Jalankan project melalui browser:
-   http://localhost/perpustakaan
+   http://localhost/SQA-KELOMPOK16/perpustakaan
 
-## 📁 Struktur Repository
+## 👥 Tim Penyusun 
 
-- Software_Design_Dokumen
-- Software_Requirements_Specification
-- Software_Test_Plan
-- Software_User_Documentations
+1. Adriana Putra Pratama Kusunmah
+2. Marwan Setyadi
+3. Muhammad Teguh Pawana
+4. Ryan Restu Julianto
