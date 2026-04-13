@@ -57,6 +57,12 @@ Pengujian dilakukan terhadap seluruh fitur utama seperti login, register, verifi
 - MySQL Database
 - Bootstrap 5
 - XAMPP
+## 📁 Struktur Repository
+
+- Software_Design_Dokumen
+- Software_Requirements_Specification
+- Software_Test_Plan
+- Software_User_Documentations
 
 ## ▶️ Cara Menjalankan Project
 
